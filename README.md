@@ -2,7 +2,7 @@
 
 I'm a third-year Computing student at Queen's University (Cybersecurity specialization, Math minor). I'm looking for a 4-month internship starting May 2027 in the GTA or Kingston, in IT infrastructure or technical sales.
 
-## What I'm working on
+## Projects
 
 - **Home server:** I run my own server (HP Z420), rebuilt on FreeBSD, with self-hosted Git, Nextcloud, game servers and automatic PC and laptop backups. Remote access is over WireGuard and Tailscale.
 - **[willbot](https://github.com/Braydenp006/willbot):** a fully local voice assistant using faster-whisper, a local Qwen LLM and Chatterbox, running on my own hardware.
