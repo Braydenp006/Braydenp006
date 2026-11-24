@@ -1,6 +1,21 @@
 # Hi, I'm Brayden
 
 I'm a third-year Computing student at Queen's University (Cybersecurity specialization, Math minor). I'm looking for a 4-month internship starting May 2027 in the GTA or Kingston, in IT infrastructure or technical sales.
+<p align="center">
+<img width="90%" alt="My personal site" src="https://github.com/user-attachments/assets/89109e14-3316-4cb5-bd47-9ce8a8639f3b" />
+</p>
+
+## What I Use
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
 
 ## Projects
 
@@ -16,4 +31,5 @@ I'm a third-year Computing student at Queen's University (Cybersecurity speciali
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/braydenpaterson/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braydenpaterson/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:Braydenp006@gmail.com)
