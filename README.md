@@ -4,9 +4,9 @@ I'm a third-year Computing student at Queen's University (Cybersecurity speciali
 
 ## Projects
 
-- **Home server:** I run my own server (HP Z420), rebuilt on FreeBSD, with self-hosted Git, Nextcloud, game servers and automatic PC and laptop backups. Remote access is over WireGuard and Tailscale.
-- **[willbot](https://github.com/Braydenp006/willbot):** a fully local voice assistant using faster-whisper, a local Qwen LLM and Chatterbox, running on my own hardware.
-- **[LightControlledCar](https://github.com/Braydenp006/LightControlledCar):** an Arduino car in C++ that senses the direction of a light with two photoresistors, with custom mounts I designed in SolidWorks.
+- **Home server:** I run my own server (HP Z420), rebuilt on FreeBSD, with self-hosted Git, Nextcloud, game servers and automatic PC and laptop backups. Remote access is over WireGuard and Tailscale, maybe I'll upload some config files here soon.
+- **[willbot](https://github.com/Braydenp006/willbot):** a fully local voice assistant using faster-whisper, a local Qwen LLM and Chatterbox, running on my own hardware. (alexa is shaking in her boots)
+- **[LightControlledCar](https://github.com/Braydenp006/LightControlledCar):** an Arduino car in C++ that senses the direction of a light with two photoresistors and heads to it, using custom mounts I designed in SolidWorks and 3D printed.
 - **Websites:** I've built sites for two small businesses, one in plain HTML, CSS and JavaScript and one with Eleventy and Pages CMS. I've also built a [personal page](https://github.com/Braydenp006/PersonalPage)
 
 ## Experience
