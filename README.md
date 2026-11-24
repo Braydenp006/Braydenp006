@@ -32,5 +32,5 @@ I'm a third-year Computing student at Queen's University (Cybersecurity speciali
 
 ## Contact
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braydenpaterson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braydenpaterson/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:Braydenp006@gmail.com)
